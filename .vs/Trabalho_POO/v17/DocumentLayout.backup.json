@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danil\\source\\repos\\Trabalho_POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|c:\\users\\danil\\source\\repos\\trabalho_poo\\trabalho_poo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|solutionrelative:trabalho_poo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|c:\\users\\danil\\source\\repos\\trabalho_poo\\trabalho_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|solutionrelative:trabalho_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|c:\\users\\danil\\source\\repos\\trabalho_poo\\trabalho_poo\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|solutionrelative:trabalho_poo\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|c:\\users\\danil\\source\\repos\\trabalho_poo\\trabalho_poo\\trabalho_poo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|solutionrelative:trabalho_poo\\trabalho_poo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|c:\\users\\danil\\source\\repos\\trabalho_poo\\trabalho_poo\\alojamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|solutionrelative:trabalho_poo\\alojamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|c:\\users\\danil\\source\\repos\\trabalho_poo\\trabalho_poo\\sistemagestaoalojamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|solutionrelative:trabalho_poo\\sistemagestaoalojamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Trabalho_POO",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Trabalho_POO.csproj",
+              "RelativeDocumentMoniker": "Trabalho_POO\\Trabalho_POO.csproj",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Trabalho_POO.csproj",
+              "RelativeToolTip": "Trabalho_POO\\Trabalho_POO.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T20:25:49.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Program.cs",
+              "RelativeDocumentMoniker": "Trabalho_POO\\Program.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Program.cs",
+              "RelativeToolTip": "Trabalho_POO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:32:25.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Reserva.cs",
+              "RelativeDocumentMoniker": "Trabalho_POO\\Reserva.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Reserva.cs",
+              "RelativeToolTip": "Trabalho_POO\\Reserva.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:23:47.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SistemaGestaoAlojamento.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Trabalho_POO\\Trabalho_POO\\SistemaGestaoAlojamento.cs",
+              "RelativeDocumentMoniker": "Trabalho_POO\\SistemaGestaoAlojamento.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Trabalho_POO\\Trabalho_POO\\SistemaGestaoAlojamento.cs",
+              "RelativeToolTip": "Trabalho_POO\\SistemaGestaoAlojamento.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:57:27.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Alojamento.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Alojamento.cs",
+              "RelativeDocumentMoniker": "Trabalho_POO\\Alojamento.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Alojamento.cs",
+              "RelativeToolTip": "Trabalho_POO\\Alojamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:51:43.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Cliente.cs",
+              "RelativeDocumentMoniker": "Trabalho_POO\\Cliente.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Cliente.cs",
+              "RelativeToolTip": "Trabalho_POO\\Cliente.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:51:29.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
