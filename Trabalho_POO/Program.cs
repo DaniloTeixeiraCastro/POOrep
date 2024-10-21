@@ -18,7 +18,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             sistema.AdicionarCliente(cliente2);
 
             // Criando e adicionando alojamentos
-            Alojamento alojamento1 = new Alojamento("Alojamento Centro", "Porto", 4, 75.00);
+            Alojamento alojamento1 = new Alojamento("Alojamento Centro", "Porto", 4, 75.00 );
             Alojamento alojamento2 = new Alojamento("Casa Vista Mar", "Lisboa", 2, 120.00);
 
             sistema.AdicionarAlojamento(alojamento1);

@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|solutionrelative:trabalho_poo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|c:\\users\\danil\\source\\repos\\trabalho_poo\\trabalho_poo\\trabalho_poo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|solutionrelative:trabalho_poo\\trabalho_poo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|c:\\users\\danil\\source\\repos\\trabalho_poo\\trabalho_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|solutionrelative:trabalho_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|c:\\users\\danil\\source\\repos\\trabalho_poo\\trabalho_poo\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|solutionrelative:trabalho_poo\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|c:\\users\\danil\\source\\repos\\trabalho_poo\\trabalho_poo\\trabalho_poo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|solutionrelative:trabalho_poo\\trabalho_poo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA07A5A1-75B9-4515-AD70-3A5A0D4D06D0}|Trabalho_POO\\Trabalho_POO.csproj|c:\\users\\danil\\source\\repos\\trabalho_poo\\trabalho_poo\\alojamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,30 +34,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Trabalho_POO",
               "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Trabalho_POO.csproj",
               "RelativeDocumentMoniker": "Trabalho_POO\\Trabalho_POO.csproj",
               "ToolTip": "C:\\Users\\danil\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Trabalho_POO.csproj",
               "RelativeToolTip": "Trabalho_POO\\Trabalho_POO.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-16T20:25:49.699Z"
+              "WhenOpened": "2024-10-16T20:25:49.699Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Program.cs",
               "RelativeDocumentMoniker": "Trabalho_POO\\Program.cs",
@@ -65,12 +70,11 @@
               "RelativeToolTip": "Trabalho_POO\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:32:25.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T17:32:25.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Reserva.cs",
               "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Trabalho_POO\\Trabalho_POO\\Reserva.cs",
               "RelativeDocumentMoniker": "Trabalho_POO\\Reserva.cs",
